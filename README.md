@@ -1,0 +1,2 @@
+# Memory_Puzzle_Game
+Memory Puzzle game is a board full of overturned cards. There is a pair for each card. The player flips over two cards. If they match, then they stay overturned. Otherwise, they flip back. The player needs to overturn all the cards in the fewest moves to win. At the beginning of the game hints are provided in the form of four possible matching cards after the player flips the first one or quickly overturn groups of cards. Fun filled music is the best part of this game                                                                                      
